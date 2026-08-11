@@ -242,7 +242,7 @@ export function App() {
     const post = [
       "Check your Discord ranking",
       "",
-      "https://www.optimum-discord-rank.vercel.app",
+      "https://optimum-leaderboard.vercel.app",
       "",
       "Thanks for the work @makssay_eth",
       "",
